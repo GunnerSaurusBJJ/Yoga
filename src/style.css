@@ -262,11 +262,12 @@
 .section-schedule__wrapper {
   display: flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 .section-schedule__bl {
-  margin-right: 15px;
+  flex-basis: 20%;
+  margin-right: 10px;
   margin-bottom: 20px;
-  width: 220px;
   height: 180px;
   background-color: #ffe6e6;
   text-align: center;
