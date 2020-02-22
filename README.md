@@ -1,2 +1,2 @@
 # Yoga
-https://gunnersaurusbjj.github.io/Yoga/
+https://gunnersaurusbjj.github.io/YogaLanding/
